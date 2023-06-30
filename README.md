@@ -1,6 +1,6 @@
 # CSED342 Artificial Intelligence
 
-Welcome to the repository for the Artificial Intelligence Course for the Spring 2023 session of CSED342 @ POSTECH! This course provides a basic understanding of Artificial Intelligence (AI) concepts and how to implement them. Seven Assignments of this course contains the topic such as 
+Welcome to the repository for the Artificial Intelligence Course for the Spring 2023 session of CSED342 @ POSTECH! This course provides a basic understanding of Artificial Intelligence (AI) concepts and how to implement them. Seven assignments of this course contains basic topics of AI and its implementations.
 
 ## Overview
 
